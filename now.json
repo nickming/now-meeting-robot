@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meeting-robot",
+  "builds": [
+    {
+      "src": "**/*.js",
+      "use": "@now/node"
+    }
+  ]
+}
